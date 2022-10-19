@@ -1,0 +1,13 @@
+{
+    "name": "T2kx-Org Workflow",
+    "description": "T2kx-Org starter workflow.",
+    "iconName": "t2kx",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
