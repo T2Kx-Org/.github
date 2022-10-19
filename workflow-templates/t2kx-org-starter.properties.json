@@ -3,7 +3,7 @@
     "description": "T2kx-Org starter workflow.",
     "iconName": "t2kx",
     "categories": [
-        "Go"
+        "C#"
     ],
     "filePatterns": [
         "package.json$",
